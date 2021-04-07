@@ -1,0 +1,5 @@
+- targets:
+  - 154.8.136.249:9090
+  labels:
+    app: prometheus
+    job:  prometheus
